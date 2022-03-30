@@ -3,7 +3,7 @@
 --- Info...
 hoping this will become my first full app. 
 The app will take input of your spot purchases and price of luna at the time. 
-It will then return you the current price of Luna, your Luna holdings, your profit per purchase, total portfolio profit and total portfolio balance.
+It will then return you the current price of Luna, total spent, your purchases, profits per purchase, Luna held, total portfolio profit, portfolio balance.
 
 
 
