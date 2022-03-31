@@ -9,6 +9,7 @@ It will then return you the current price of Luna, total spent, your purchases, 
 
 
 --- To do's...
-Develop a menu so you can choose what token to track/input data or view purchases, balance etc 
-going to add the ability to save your input instead of inputting everytime you launch.
+Finish GUI dev
+Develop a menu so you can choose what token to track, input data, view purchases, balance etc.
+Going to add the ability to save your input instead of inputting everytime you launch.
 will use pyinstaller to make it a standalone application.
