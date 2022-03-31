@@ -3,7 +3,7 @@ from tkinter import *
 from luna_price import price
 
 # import pickle - learn this for saving states could also save in SQL database
-# Add option to choose token at start of app (meh)
+# Add option to choose token at start of app
 # Add GUI
 # Use pyinstaller to make it a standalone application
 # GG
